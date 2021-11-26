@@ -9,6 +9,7 @@ Prefix = ","
 | ping | | pong 4Head |
 | streaminfo |si, stream | Gives information about a stream |
 | followage | fa | Sends the followage of an user on a channel |
+| follocount | fc, followers | Sends user's amount of followers |
 | whois |?, who | Gives information about a user |
 | pfp | foto | Sends the specified user pfp|
 | chatters | ov | Check how many viewers are in chat |
