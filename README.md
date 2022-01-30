@@ -8,6 +8,7 @@ Prefix = ","
 | --- | --- | --- |
 | ping | | pong 4Head |
 | streaminfo |si, stream | Gives information about a stream |
+| howlongtobeat | hltb | tell you how many hours you need to win the game |
 | followage | fa | Sends the followage of an user on a channel |
 | follocount | fc, followers | Sends user's amount of followers |
 | whois |?, who | Gives information about a user |
